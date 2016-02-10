@@ -1,6 +1,6 @@
 {
   "name": "karma-tfs-stack",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Meta package of karma and dependencies for TFS CI.",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,7 @@
     "karma-ie-launcher": "^0.2.0",
     "karma-jasmine": "^0.3.7",
     "karma-phantomjs-launcher": "^1.0.0",
+    "karma-read-json": "^1.1.0",
     "karma-trx-reporter": "^0.2.6",
     "phantomjs-prebuilt": "^2.1.4"
   }
